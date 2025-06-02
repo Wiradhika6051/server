@@ -34,7 +34,7 @@
   ],
   "license": "AGPL-3.0-or-later",
   "dependencies": {
-    "@chenfengyuan/vue-qrcode": "^1.0.2",
+    "@chenfengyuan/vue-qrcode": "^2.0.0",
     "@mdi/svg": "^7.0.96",
     "@nextcloud/auth": "^2.0.0",
     "@nextcloud/axios": "^1.10.0",
